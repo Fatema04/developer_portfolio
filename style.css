@@ -88,3 +88,15 @@ p {
     background-position: left;
     background-size: 100px;
 }
+
+#item1 {
+    border-left: 7px solid rgb(242, 76, 46);
+}
+
+#item2 {
+    border-left: 7px solid rgb(3, 3, 190);
+}
+
+footer p {
+    text-align: center;
+}
