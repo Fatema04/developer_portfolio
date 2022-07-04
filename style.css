@@ -14,6 +14,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 40px;
 
 }
 
@@ -43,4 +44,22 @@ p {
 .top {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.dream_big {
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 40px;
+    padding-bottom: 260px;
+
+}
+
+.left_half img {
+    width: 80%;
+}
+
+.right_half {
+    width: 50%;
 }
